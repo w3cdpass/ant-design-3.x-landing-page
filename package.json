@@ -4,8 +4,8 @@
     "index": "./index.js"
   },
   "dependencies": {
-    "antd": "^3.0.0",
-    "bisheng": "^0.28.2",
+    "antd": "^4.0.0",
+    "bisheng": "^3.5.0",
     "enquire-js": "^0.1.0",
     "prop-types": "^15.6.0",
     "rc-queue-anim": "^1.4.0",
